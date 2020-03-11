@@ -15,6 +15,7 @@ import androidx.ui.material.Tab
 import androidx.ui.material.TabRow
 import androidx.ui.material.lightColorPalette
 import androidx.ui.tooling.preview.Preview
+import com.example.voice_code.dataProviders.Tabs
 import com.example.voice_code.tabComposables.Tab1
 import com.example.voice_code.tabComposables.Tab2
 import com.example.voice_code.tabComposables.Tab3
@@ -58,14 +59,6 @@ fun App(children: @Composable() () -> Unit) {
             children()
         }
     }
-}
-
-enum class Tabs(val title: String) {
-    Tab1("Tab1"),
-    Tab2("Tab2"),
-    Tab3("Tab3"),
-    Tab4("Tab4")
-
 }
 
 @Composable

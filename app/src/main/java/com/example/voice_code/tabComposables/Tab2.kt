@@ -5,7 +5,7 @@ import androidx.compose.Composable
 import androidx.ui.core.Text
 import androidx.ui.tooling.preview.Preview
 import com.example.voice_code.DefaultPreview
-import com.example.voice_code.Tabs
+import com.example.voice_code.dataProviders.Tabs
 
 @Preview
 @Composable

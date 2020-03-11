@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">voice_code</string>
+
+    <string name="Tab1Name">Tab1</string>
+    <string name="Tab2Name">Tab2</string>
+    <string name="Tab3Name">Tab3</string>
+    <string name="Tab4Name">Tab4</string>
+    <string name="Unknown">Unknown</string>
 </resources>
