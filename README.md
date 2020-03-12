@@ -1,5 +1,7 @@
 # voice_code
 
+![Android CI](https://github.com/aviral-garg/voice_code/workflows/Android%20CI/badge.svg?branch=master)
+
 - App Name: Code Arena
 - Platform: Android
 - Language: Kotlin
